@@ -1,5 +1,5 @@
 import React from 'react'
-import anjani from '../assets/anjani.jpeg';
+import anjani from './assets/anjani.jpeg';
 const Home = () =>{
     return (
         <div className="home">

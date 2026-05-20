@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import anjani from '../assets/anjani.jpeg';
+import anjani from './assets/anjani.jpeg';
 
 const Navbar = () => {
     return (

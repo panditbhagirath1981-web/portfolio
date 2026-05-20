@@ -1,17 +1,16 @@
-
- import react from 'react';
- import bootstrap from '../assets/bootstrap.jpeg';
- import css from '../assets/css.png';
- import git from '../assets/git.png';
- import github from '../assets/github.png';
- import html from '../assets/html.webp';
- import js from '../assets/js.jpeg';
- import mongodb from '../assets/mongodb.png';
- import node from '../assets/node.png';
- import npm from '../assets/npm.png';
- import postman from '../assets/postman.png';
- import download from '../assets/download.png';
- import tailwindcss from '../assets/tailwindcss.png';
+ import React from 'react';
+ import bootstrap from './assets/bootstrap.jpeg';
+ import css from './assets/css.png';
+ import git from './assets/git.png';
+ import github from './assets/github.png';
+ import html from './assets/html.webp';
+ import js from './assets/js.jpeg';
+ import mongodb from './assets/mongodb.png';
+ import node from './assets/node.png';
+ import npm from './assets/npm.png';
+ import postman from './assets/postman.png';
+ import download from './assets/download.png';
+ import tailwindcss from './assets/tailwindcss.png';
 
 const skillsDate = [
   {
