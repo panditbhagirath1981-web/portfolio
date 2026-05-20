@@ -1,11 +1,11 @@
-import Navbar from "./src/Navbar";
+import Navbar from "./Navbar";
 import './index.css'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./src/Home";
-import About from "./src/About";
-import Contact from "./src/Contact";
-import Project from "./src/Project";
-import Skills from "./src/Skills";
+import Home from "./Home";
+import About from "./About";
+import Contact from "./Contact";
+import Project from "./Project";
+import Skills from "./Skills";
 
 
 
